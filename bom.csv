@@ -1,0 +1,10 @@
+Part,Value,Quantity
+Resistor,4.7k,1
+Resistor,220,6
+Photoresistor,,1
+LED,,2
+Capacitor,10uF,1
+2N3904,,2
+2N3906,,1
+Battery Holder,,1
+Button,,1
